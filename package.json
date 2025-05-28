@@ -1,0 +1,43 @@
+{
+  "name": "presencepulse",
+  "version": "1.0.0",
+  "description": "Discord rich presence tracker for YouTube and Spotify on chromium-based browsers.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder"
+  },
+  "build": {
+    "appId": "com.presence.pulse",
+    "productName": "PresencePulse",
+    "files": [
+      "**/*"
+    ],
+    "directories": {
+      "output": "dist"
+    },
+    "win": {
+      "target": "nsis",
+      "icon": "icon.ico",
+      "requestedExecutionLevel": "requireAdministrator"
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true
+    }
+  },
+  "author": "www.github.com/sarthakvs",
+  "license": "ISC",
+  "dependencies": {
+    "auto-launch": "^5.0.6",
+    "discord-rpc": "^4.0.1",
+    "get-windows": "^9.2.0",
+    "open": "^10.1.2",
+    "spotify-web-api-node": "^5.0.2"
+  },
+  "devDependencies": {
+    "electron": "^36.3.1",
+    "electron-builder": "^26.0.12"
+  }
+}
