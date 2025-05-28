@@ -6,6 +6,7 @@ Spotify detection example:
 ![image](https://github.com/user-attachments/assets/9539b776-dd95-4d2f-96a7-50ba62d016c8)
 
 The system tray:
+
 ![image](https://github.com/user-attachments/assets/9a73df96-d0e0-447e-bc2c-359a1a1939bf)
 
 ⚡ Features:
@@ -21,5 +22,5 @@ The system tray:
 
 🔒 No user data is collected.
 
-The system tray:
-![image](https://github.com/user-attachments/assets/9a73df96-d0e0-447e-bc2c-359a1a1939bf)
+Install it here: 
+PresencePulse 1.0.0 : https://drive.google.com/file/d/1hvg8rNzwx9o7MmdKm1FJpYH9iXf9J_5r/view?usp=drive_link
