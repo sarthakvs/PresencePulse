@@ -14,6 +14,7 @@ The system tray:
 ![image](https://github.com/user-attachments/assets/9a73df96-d0e0-447e-bc2c-359a1a1939bf)
 
 ⚡ Features:
+
 🎵 Detects Spotify Web Player (across any browser) and shows track info on Discord
 
 📺 Detects YouTube activity and displays current video as your status
