@@ -1,8 +1,12 @@
 # PresencePulse
 PresencePulse is a lightweight, Electron-based Discord Rich Presence tool that automatically detects if you're watching YouTube or listening to Spotify in any Chromium-based browser — and updates your Discord status in real-time.
+
 Youtube detection example:
+
 ![image](https://github.com/user-attachments/assets/fa4b8075-c1a6-4d61-88b3-b42caaf846f5)
+
 Spotify detection example:
+
 ![image](https://github.com/user-attachments/assets/9539b776-dd95-4d2f-96a7-50ba62d016c8)
 
 The system tray:
