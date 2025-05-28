@@ -27,5 +27,4 @@ The system tray:
 
 🔒 No user data is collected.
 
-Install it here: 
-PresencePulse 1.0.0 : https://drive.google.com/file/d/1hvg8rNzwx9o7MmdKm1FJpYH9iXf9J_5r/view?usp=drive_link
+You can install it in the [Realeases](https://github.com/sarthakvs/PresencePulse/releases/tag/v1.0.0) tab
